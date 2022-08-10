@@ -8,7 +8,7 @@
 
 // constants for Problem 2
 #define OLD_AGE_YEAR 1962
-#define CURRENT_YEAR 2019
+#define CURRENT_YEAR 2022
 
 /*
 * Learning Integer Variables and Operations
